@@ -79,6 +79,6 @@ A **return level vs. return period plot** visualizes the relationship between th
 
 ---
 
-## Conclusion
+## Reflection
 
-This project provides **EPRI stakeholders** with dynamic tools to explore climate data and understand projected trends across a variety of regions and models. The interactive nature of these visualizations allows for more nuanced analysis of future climate scenarios, offering deeper insights than traditional static plots.
+This project provides users of EPRI's website with dynamic tools to explore climate data and understand projected trends across a variety of regions and models. The interactive nature of these visualizations allows for more nuanced analysis of future climate scenarios, offering deeper insights than traditional static plots.
