@@ -43,7 +43,6 @@ An interactive plot that enables users to explore **temperature and precipitatio
 - Dotted lines for displaying **maximum** and **minimum temperatures**.
 - 
 ![Temperature and Precipitation Projections](images/EPRI_Sp24_Viz1.1.png)
-![Temperature and Precipitation Projections](images/EPRI_Sp24_Viz1.2.png)
 
 
 ## Visualization 2: Atlanta Temperature Projections: Raw vs. Downscaled Data
