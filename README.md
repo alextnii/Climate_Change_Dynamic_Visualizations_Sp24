@@ -41,6 +41,10 @@ An interactive plot that enables users to explore **temperature and precipitatio
 - Used **HoloViews** and **hvPlot** for dynamic and light-weight plotting.
 - Interactive line plots for mean temperature and area plots to represent the range of 1 standard deviation above and below the mean.
 - Dotted lines for displaying **maximum** and **minimum temperatures**.
+- 
+![Temperature and Precipitation Projections](images/EPRI_Sp24_Viz1.1.png)
+![Temperature and Precipitation Projections](images/EPRI_Sp24_Viz1.2.png)
+
 
 ## Visualization 2: Atlanta Temperature Projections: Raw vs. Downscaled Data
 
@@ -58,6 +62,9 @@ For this visualization, we utilized **Cartopy** to create dynamic maps, and inte
 **Impact**:
 - This visualization showcases the importance of using downscaled data for more **accurate local climate projections**.
 
+![Raw vs. Downscaled Atlanta Temperature Projections](images/EPRI_Sp24_Viz2.png)
+
+
 ## Visualization 3: Return Level vs. Return Period
 
 A **return level vs. return period plot** visualizes the relationship between the magnitude of an event and the average time before the next event of similar magnitude or greater occurs.
@@ -68,6 +75,8 @@ A **return level vs. return period plot** visualizes the relationship between th
 **Purpose**:
 - This plot helps to analyze the frequency of extreme temperature events over time.
 - Useful for understanding **climate extremes** and their likely recurrence.
+
+![Return Level vs. Return Period](images/EPRI_Sp24_Viz3.png)
 
 ---
 
